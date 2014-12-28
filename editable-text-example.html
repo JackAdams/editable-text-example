@@ -23,7 +23,7 @@
       <h4>Comments</h4>
       {{#each comments}}
         <div class="comment editable-text-trigger">
-          {{> editableText collection="comments" field="text" textarea=true removeEmpty=true substitute='<i class="fa fa-pencil"></i>' class="comment-text" inputClass="comment-input"}}
+          {{> editableText collection="comments" field="text" textarea=true removeEmpty=true trustHTML=true substitute='<i class="fa fa-pencil"></i>' class="comment-text" inputClass="comment-input"}}
         </div>
       {{/each}}
       {{#with post_id=_id}}
