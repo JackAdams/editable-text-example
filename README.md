@@ -1,7 +1,7 @@
 editable-text-example
 =====================
 
-Demo app for the meteor package [babrahams:editable-text](https://atmospherejs.com/babrahams/editable-text)
+Demo app for the meteor package [babrahams:editable-text](https://atmospherejs.com/babrahams/editable-text).
 
 Packages used:
 
