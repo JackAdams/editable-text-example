@@ -34,6 +34,6 @@
     </div>
   {{/each}}
   <span class="btn btn-info editable-text-trigger">
-    <i class="fa fa-plus"></i> New post{{> editableText doc=doc collection="posts" field="title" autoInsert=true}}
+    <i class="fa fa-plus"></i> New post{{> editableText context=newCommentDoc collection="posts" field="title" autoInsert=true}}
   </span>
 </template>
