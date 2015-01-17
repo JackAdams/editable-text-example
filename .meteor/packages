@@ -10,5 +10,4 @@ insecure
 bootstrap
 natestrauser:font-awesome
 meteorhacks:fast-render
-babrahams:editable-text-wysiwyg
-babrahams:editable-text
+babrahams:editable-text-wysiwyg-bootstrap-2
