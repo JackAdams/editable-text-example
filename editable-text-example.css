@@ -12,8 +12,7 @@
 
 .comment-input {
   border-radius: 10px;
-  padding: 10px 20px !important;
-  width: 96.5% !important;	
+  padding: 10px 0px !important;	
 }
 
 .comment {
@@ -26,7 +25,6 @@
   background-color:#fff;
   padding: 10px 20px;
   display: inline-block;
-  width: 96.5%;
 }
 
 .post-body-wysiwyg {
